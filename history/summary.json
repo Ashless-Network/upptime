@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashless.net.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "7.13%",
-    "uptimeDay": "7.13%",
-    "uptimeWeek": "7.13%",
-    "uptimeMonth": "7.13%",
-    "uptimeYear": "7.13%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-11": 0
+      "2023-02-11": 71
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/store.ashless.net.ico",
     "slug": "store",
     "status": "down",
-    "uptime": "6.74%",
-    "uptimeDay": "6.74%",
-    "uptimeWeek": "6.74%",
-    "uptimeMonth": "6.74%",
-    "uptimeYear": "6.74%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-11": 0
+      "2023-02-11": 71
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.ashless.net.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-11": 27
+      "2023-02-11": 98
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ashless.net.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-11": 27
+      "2023-02-11": 98
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-11": 117
+      "2023-02-11": 447
     }
   },
   {
@@ -104,17 +104,17 @@
     "url": "https://ashless-api.farmeurimmo.fr/health",
     "icon": "https://icons.duckduckgo.com/ip3/ashless-api.farmeurimmo.fr.ico",
     "slug": "test-api",
-    "status": "down",
-    "uptime": "66.59%",
-    "uptimeDay": "66.59%",
-    "uptimeWeek": "66.59%",
-    "uptimeMonth": "66.59%",
-    "uptimeYear": "66.59%",
-    "time": 127,
-    "timeDay": 127,
-    "timeWeek": 127,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "status": "up",
+    "uptime": "90.73%",
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "90.73%",
+    "uptimeMonth": "90.73%",
+    "uptimeYear": "90.73%",
+    "time": 128,
+    "timeDay": 128,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {
       "2023-02-11": 9
     }
