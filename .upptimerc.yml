@@ -33,8 +33,6 @@ status-website:
   navbar:
     - title: Retour au site principal
       href: https://ashless.net
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
