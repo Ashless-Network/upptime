@@ -11,6 +11,8 @@ sites:
     url: https://wiki.ashless.net
   - name: API
     url: https://api.ashless.net
+  - name: CDN (Content Devlivery Network)
+    url: https://cdn.ashless.net
   - name: Status
     url: https://status.ashless.net
   - name: Test API
