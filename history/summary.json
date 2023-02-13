@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-12": 44,
+      "2023-02-13": 41,
+      "2023-02-12": 1440,
       "2023-02-11": 662
     }
   },
@@ -37,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-12": 44,
+      "2023-02-13": 41,
+      "2023-02-12": 1440,
       "2023-02-11": 662
     }
   },
@@ -58,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-12": 44,
+      "2023-02-13": 41,
+      "2023-02-12": 1440,
       "2023-02-11": 689
     }
   },
@@ -79,7 +82,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-12": 44,
+      "2023-02-13": 41,
+      "2023-02-12": 1440,
       "2023-02-11": 689
     }
   },
@@ -100,7 +104,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-12": 44,
+      "2023-02-13": 41,
+      "2023-02-12": 1440,
       "2023-02-11": 571
     }
   },
@@ -121,7 +126,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-12": 220,
+      "2023-02-13": 205,
+      "2023-02-12": 7200,
       "2023-02-11": 3382
     }
   },
@@ -131,16 +137,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashless-api.farmeurimmo.fr.ico",
     "slug": "test-api",
     "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
-    "time": 162,
-    "timeDay": 162,
-    "timeWeek": 162,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "uptime": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 173,
+    "timeDay": 292,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2023-02-11": 9
     }
