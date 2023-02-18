@@ -6,19 +6,21 @@ sites:
   - name: Website
     url: https://ashless.net
   - name: Store
-    url: https://store.ashless.net
+    url: https://boutique.ashless.net
   - name: Wiki
     url: https://wiki.ashless.net
   - name: API
     url: https://api.ashless.net
+    expectedStatusCodes:
+      - 1020
+  - name: Test API
+    url: https://dev-api.ashless.net
+    expectedStatusCodes:
+      - 1020
   - name: CDN (Content Devlivery Network)
     url: https://cdn.ashless.net
   - name: Status
-    url: https://status.ashless.net
-  - name: Test API
-    url: https://ashless-api.farmeurimmo.fr/health
-    expectedStatusCodes:
-      - 200
+    url: https://statut.ashless.net
 assignees: # Users to assign downtime issues (optional)
   - Farmeurimmo
 
