@@ -13,10 +13,6 @@ sites:
     url: https://api.ashless.net
     expectedStatusCodes:
       - 1020
-  - name: Test API
-    url: https://dev-api.ashless.net
-    expectedStatusCodes:
-      - 1020
   - name: CDN (Content Devlivery Network)
     url: https://cdn.ashless.net
   - name: Status
