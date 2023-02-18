@@ -30,12 +30,12 @@ status-website:
   cname: statut.ashless.net
   #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status - Ashless Network
+  name: Statut - Ashless Network
   theme: night
   introTitle: "**Our services status in real time**"
   #introMessage: Actualisée en temps réel.
   navbar:
-    - title: Go back to main website
+    - title: Retour au site principal
       href: https://ashless.net
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
