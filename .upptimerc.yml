@@ -16,22 +16,22 @@ sites:
   - name: CDN (Content Devlivery Network)
     url: https://cdn.ashless.net
   - name: Status
-    url: https://statut.ashless.net
+    url: https://status.ashless.net
 assignees: # Users to assign downtime issues (optional)
   - Farmeurimmo
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: statut.ashless.net
+  cname: status.ashless.net
   #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Statut - Ashless Network
+  name: Status - Ashless Network
   theme: night
   introTitle: "**Our services status in real time**"
   #introMessage: Actualisée en temps réel.
   navbar:
-    - title: Retour au site principal
+    - title: Go back to main website
       href: https://ashless.net
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
