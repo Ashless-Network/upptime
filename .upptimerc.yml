@@ -11,8 +11,6 @@ sites:
     url: https://wiki.ashless.net
   - name: API
     url: https://api.ashless.net
-    expectedStatusCodes:
-      - 403
   - name: CDN (Content Devlivery Network)
     url: https://cdn.ashless.net
     expectedStatusCodes:
