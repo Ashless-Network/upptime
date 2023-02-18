@@ -12,9 +12,11 @@ sites:
   - name: API
     url: https://api.ashless.net
     expectedStatusCodes:
-      - 1020
+      - 403
   - name: CDN (Content Devlivery Network)
     url: https://cdn.ashless.net
+    expectedStatusCodes:
+      - 404
   - name: Status
     url: https://status.ashless.net
 assignees: # Users to assign downtime issues (optional)
